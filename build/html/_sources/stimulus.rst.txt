@@ -543,6 +543,10 @@ imagenet_v2
 TODO
 Assigned to Donnie Kim
 
+.. case1 : `sphinx <https://github.com/sphinx-doc/sphinx>`_.
+
+.. case2 : `SphInx <https://github.com/sphinx-doc/SphInx>`_.
+
 Other Resources:
 ----------------
 | GitHub: https://github.com/cajal/stimuli.git
